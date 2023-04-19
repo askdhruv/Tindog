@@ -1,0 +1,58 @@
+h1 {  font-family: 'Montserrat, sans-serif';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;}
+h2{
+    font-family: 'Montserrat, sans-serif';  
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#title{
+    background-color:bisque;
+}
+.container-fluid{
+    padding: 5% 15%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.feature_box{
+    padding: 15% 7%;
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    line-height: 3;
+}
+i{
+    line-height: 3;
+}
+.icon{
+    color: red;
+}
+.icon:hover {
+    color:black;
+}
+
+#testimonials{
+    background-color: bisque;
+    padding: 7% 15%;
+    text-align: center;
+
+}
+.testimonial-image{
+    width: 100px;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: bisque;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.press-logo{
+    margin: 20px 20px 10px;
+    width: 200px;
+}
